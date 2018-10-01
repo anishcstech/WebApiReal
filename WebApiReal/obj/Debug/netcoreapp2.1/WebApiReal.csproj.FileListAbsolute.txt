@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\bin\Debug\netcoreapp2.1\WebApiReal.deps.json
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\bin\Debug\netcoreapp2.1\WebApiReal.runtimeconfig.json
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\bin\Debug\netcoreapp2.1\WebApiReal.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\bin\Debug\netcoreapp2.1\WebApiReal.dll
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\bin\Debug\netcoreapp2.1\WebApiReal.pdb
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.dll
+C:\Users\Administrator\source\repos\WebApiReal\WebApiReal\obj\Debug\netcoreapp2.1\WebApiReal.pdb
